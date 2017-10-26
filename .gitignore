@@ -1,0 +1,5 @@
+/app/config/parammeters.yml
+/var/cache/*
+!var/cache/.gitkeep
+/var/logs/*
+!var/logs/.gitkeep
